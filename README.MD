@@ -8,7 +8,8 @@ It was coded using HTML,CSS and JavaScprit technologies.
 
 <h2> Demo </h2>
 
-You can view a live demo of this project [here]
+You can view a live demo of this project [here] (https://seliinatmaca.github.io/expensecalculator/)
+
 <h2> screenshot </h2>
 
 ![](screen.gif)# expensecalculator
